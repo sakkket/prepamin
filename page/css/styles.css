@@ -1,0 +1,77 @@
+#header-nav {
+	background-color: #3CB371;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url('pic1.png') no-repeat;
+	width: 100px;
+	height:80px; 
+	margin: 10px 15px 5px -50px;
+
+
+
+}
+#main {
+		
+		margin-left: 180px;
+		margin-top: -80px;
+		opacity: .5;
+	}
+#heading{
+	font-family: 'Lora', serif;
+	color: #557c3e;
+	font-size: 2.0em;
+	
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: -150px;
+	margin-bottom: 0;
+	margin-left: 450px;
+	line-height: .75;
+}
+.panel-footer{
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+#course ,#address,#testinomials{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.3em;
+	color: #3CB371;
+
+}
+#main1
+{
+	color: #006400;
+	font-size: 1.5em;
+}
+
+#mainapp
+{
+	margin-bottom: 150px;
+	margin-top: -300px;
+	position: right;
+	margin-left: 100px
+}
+#appcontent
+{
+	margin-left: 850px;
+
+}
+#appcontent h2
+{
+	color: #3CB371;
+
+
+}
+
+#appcontent p{
+	width: 500px;
+	font-style: italic;
+	font-size: 1em;
+	color: #808080;
+}
