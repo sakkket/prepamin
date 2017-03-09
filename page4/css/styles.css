@@ -1,0 +1,182 @@
+#header-nav {
+	background-color: #3CB371;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url('pic1.png') no-repeat;
+	width: 100px;
+	height:80px; 
+	
+}
+}
+
+
+#main {
+		
+		margin-left: 180px;
+		margin-top: -80px;
+		opacity: .5;
+	}
+#heading{
+	font-family: 'Lora', serif;
+	color: #557c3e;
+	font-size: 2.0em;
+	
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: -150px;
+	margin-bottom: 0;
+	margin-left: 450px;
+	line-height: .75;
+}
+.panel-footer{
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+#course ,#address,#testinomials{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.3em;
+	color: #ffffff;
+
+}
+#main1
+{
+	color: #006400;
+	font-size: 1.5em;
+}
+
+#mainapp
+{
+	margin-bottom: 150px;
+	margin-top: -200px;
+	position: right;
+	margin-left: 100px
+}
+
+
+#header-nav {
+	background-color: #595959;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url('logo2.png') no-repeat;
+	width: 60px;
+	height: 50px;
+	margin-top: 0;
+	
+}
+#nav-list a:hover {
+	background:#3CB371 ;
+	
+	}
+#nav-list a:active {
+	background:#3CB371 ;
+	
+	}
+
+#nav-list a {
+	font-size:1.5em;
+	font-family: 'Varela Round', sans-serif;
+} 
+#head a:hover
+{
+background: #3CB371;
+}
+
+
+.navbar-brand span {
+	font-size:1.5em;
+	font-family: 'Varela Round', sans-serif;
+
+} 
+
+#logo-img {
+	background: url('logo2.png') no-repeat;
+	width: 60px;
+	height: 45px;
+	margin-top: 0;
+	margin-left:0;
+	margin-right: 10px;
+}
+#band a:hover 
+{
+background:#3CB371;	
+}
+
+#nav-list span
+{
+	color: #ffffff;
+}
+#band span{
+	color: #ffffff;
+	
+}
+#band a:active 
+{
+background: #3CB371 ;	
+}
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+   	
+	color: #ffffff;
+    margin-top: -100px;
+    text-shadow: 4px 2px 4px #222;
+  
+}
+.center span
+{
+	font-style: italic;
+	font-family: 'Merriweather', serif;
+	 
+}
+.center p
+{
+	font-style: bold;
+	
+	font-family: 'Oswald', sans-serif;
+
+}
+
+#appicon
+{
+	background: url('mainapp.jpg') no-repeat;
+	width:712px;
+	height: 717px;
+}
+
+#appcontent h2
+{
+	color: #3CB371;
+
+
+}
+
+#appcontent p{
+	width: 500px;
+	font-style: italic;
+	font-size: 1em;
+	color: #808080;
+}
+.jumbotron {
+	margin-top: -80px;
+}
+
+
+
+
+#appicon1
+{
+	background: url('rsz_mainapp.jpg') no-repeat;
+	width: 449px;
+	height: 484px;
+}
