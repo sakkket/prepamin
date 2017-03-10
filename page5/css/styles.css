@@ -164,7 +164,7 @@ background: #3CB371 ;
 #appcontent p{
 	width: 500px;
 	font-style: italic;
-	font-size: 1em;
+	font-size: 1.2em;
 	color: #808080;
 }
 .jumbotron {
@@ -179,4 +179,53 @@ background: #3CB371 ;
 	background: url('rsz_mainapp.jpg') no-repeat;
 	width: 449px;
 	height: 484px;
+}
+.container
+{
+	margin-top: 50px;
+}
+
+.row2
+{
+	margin-top: 50px
+}
+
+#coursestitle
+{
+	font-family: 'Oxygen', sans-serif;
+	 
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-120%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.image1:hover .image {
+  opacity: 0.3;
+}
+
+.image1:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
 }
