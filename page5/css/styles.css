@@ -93,7 +93,7 @@ background: #3CB371;
 .navbar-brand span {
 	font-size:1.5em;
 	font-family: 'Varela Round', sans-serif;
-
+	
 } 
 
 #logo-img {
@@ -216,7 +216,7 @@ background: #3CB371 ;
 }
 
 .image1:hover .image {
-  opacity: 0.3;
+  opacity: .1;
 }
 
 .image1:hover .middle {
@@ -224,7 +224,7 @@ background: #3CB371 ;
 }
 
 .text {
-  background-color: #4CAF50;
+  
   color: white;
   font-size: 16px;
   padding: 16px 32px;
@@ -237,4 +237,13 @@ background: #3CB371 ;
 
 {
 	margin-top: 100px;
+}
+.text span
+{
+	color: #696969;
+}
+
+.course1
+{
+	margin-left: 300px;
 }
