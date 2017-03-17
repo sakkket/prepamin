@@ -174,12 +174,7 @@ background: #3CB371 ;
 
 
 
-#appicon1
-{
-	background: url('rsz_mainapp.jpg') no-repeat;
-	width: 449px;
-	height: 484px;
-}
+
 .container
 {
 	margin-top: 50px;
@@ -247,4 +242,16 @@ background: #3CB371 ;
 .course1
 {
 	margin-left: 300px;
+}
+.container2
+{
+	margin-top: 100px;
+	margin-bottom: 100px 
+}
+.container2 h2
+{
+	font-style: italic;
+	font-family: 'Vollkorn', serif;
+	font-size: 4em;
+	color: #3CB371
 }
