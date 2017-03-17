@@ -162,7 +162,7 @@ background: #3CB371 ;
 }
 
 #appcontent p{
-	width: 450px;
+	width: 100%;
 	font-style: italic;
 	font-size: 1.2em;
 	color: #808080;
