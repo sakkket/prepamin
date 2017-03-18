@@ -182,7 +182,12 @@ background: #3CB371 ;
 
 .row2
 {
-	margin-top: 50px
+	margin-top: 30px
+}
+
+.row3
+{
+	margin-top: 10px
 }
 
 
@@ -190,6 +195,11 @@ background: #3CB371 ;
 {
 	font-family: 'Oxygen', sans-serif;
 	 
+}
+#coursestitle1
+{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.8em; 
 }
 
 .image {
@@ -252,7 +262,7 @@ background: #3CB371 ;
 {
 	font-style: italic;
 	font-family: 'Vollkorn', serif;
-	font-size: 4em;
+	font-size: 3.5em;
 	color: #3CB371
 }
 .container2 p
@@ -265,22 +275,17 @@ background: #3CB371 ;
     margin: auto;
     left: 1%;
     right: 1%;
-   
     margin-top: 20px;
     margin-bottom: 20px;
 
 }
 .team_meet
 {
-	margin-top: 80px;
-	
+	margin-top: 50px;
+	margin-left: 30px;
 
 }
-.team_meet1
-{
-	margin-top: 80px;
-	
-}
+
 .container h3 
 {
 	color: #B22222;
