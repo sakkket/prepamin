@@ -206,7 +206,7 @@ background: #3CB371 ;
   opacity: 0;
   position: absolute;
   top: 122px;
-  left: 175px;
+  left: 195px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%)
 }
@@ -255,3 +255,41 @@ background: #3CB371 ;
 	font-size: 4em;
 	color: #3CB371
 }
+.container2 p
+{
+	
+	font-style: italic;
+	font-size: 1.5em;
+	color: #808080;
+	max-width: 1000px;
+    margin: auto;
+    left: 1%;
+    right: 1%;
+   
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.team_meet
+{
+	margin-top: 80px;
+	
+
+}
+.team_meet1
+{
+	margin-top: 80px;
+	
+}
+.container h3 
+{
+	color: #B22222;
+	margin-left: 70px;
+	font-family: 'Crete Round', serif;
+	 
+}
+.container h4
+{
+	margin-left: 50px;
+}
+
