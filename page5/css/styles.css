@@ -333,5 +333,6 @@ background: #3CB371 ;
 }
 .container h4
 {
+	font-style: italic;
 	margin-left: 70px;
 }
