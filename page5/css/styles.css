@@ -31,8 +31,8 @@
 	line-height: .75;
 }
 .panel-footer{
-	margin-top: 30px;
-	padding-top: 35px;
+	margin-top: 20px;
+	padding-top: 20px;
 	padding-bottom: 30px;
 	background-color: #222;
 	border-top: 0;
@@ -43,6 +43,44 @@
 	font-size: 1.3em;
 	color: #ffffff;
 
+}
+#testinomials span
+{
+	font-size: 1.5em;
+	
+}
+#testinomials a:hover
+{
+	text-decoration: none;
+}
+#course span
+{
+	font-size: 1.5em;
+}
+#address span
+{
+	font-size: 1.5em;
+}
+#address a
+{
+	color: white;
+}
+#address a:hover
+{
+	color: #3CB371;
+	text-decoration: none;
+}
+#address a:active
+{
+	text-decoration: none;
+}
+#address a:visited
+{
+	text-decoration: none;
+}
+#address a:link
+{
+	text-decoration: none;
 }
 #main1
 {
